@@ -1,0 +1,21 @@
+# Environment files
+.env
+.env.*
+backend/.env
+
+# Build output
+dist/
+backend/dist/
+
+# Uploaded files
+uploads/
+backend/uploads/
+
+# Local DB fallback
+backend/local_transcriptions.json
+
+# Test coverage
+coverage/
+
+# OS files
+Thumbs.db
